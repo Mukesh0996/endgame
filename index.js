@@ -16,6 +16,7 @@ if(userAnswer === answer) {
   score -= 1;
 }
 console.log("Current Score is ", score);
+console.log("----------------------------");
 }
 var questions = [{
   question: "Where do I live? ",
